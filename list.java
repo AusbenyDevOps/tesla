@@ -4,3 +4,5 @@ joy
 dik
 peace
 rendy
+naomi
+chyy
